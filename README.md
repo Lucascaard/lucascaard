@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Sou um estudante do 2º semestre de Análise e Desenvolvimento de Sistemas
+Sou um estudante do 2º semestre de Análise e Desenvolvimento de Sistemas na Universidade Positivo
 
 ## Habilidades
 
