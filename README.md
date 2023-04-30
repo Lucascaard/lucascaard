@@ -1,16 +1,30 @@
-### Hi there 👋
+# Sobre Mim
 
-<!--
-**Lucascaard/lucascaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante do 2º semestre de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `HTML`
+- `CSS`
+- `JavaScript`
+- `Node.js`
+- `PHP`
+- `Java`
+- `Shell`
+
+## Experiência
+
+Atualmente estou estudando e praticando minhas habilidades em desenvolvimento de software.
+
+## Objetivos
+
+Meu objetivo é me tornar um desenvolvedor de software altamente qualificado e contribuir para projetos significativos em minha carreira. Estou sempre aberto a novos desafios e oportunidades de aprendizado.
+
+## Contato
+
+Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem.
+
+- [LinkedIn](link)
+- [WhatsApp](https://wa.me/41999912106?text=Ol%C3%A1%20Lucas%2C%20te%20encontrei%20no%20GitHub.%20Podemos%20conversar%3F)
+- Email: <adslucascardoso@gmail.com>
+
