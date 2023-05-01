@@ -4,13 +4,13 @@ Sou um estudante do 2º semestre de Análise e Desenvolvimento de Sistemas na Un
 
 ## Habilidades
 
-- `HTML`
-- `CSS`
-- `JavaScript`
-- `Node.js`
-- `PHP`
-- `Java`
-- `Shell`
+- ![HTML](https://img.shields.io/badge/-HTML-orange)
+- ![CSS](https://img.shields.io/badge/-CSS-blue)
+- ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-yellow)
+- ![Node.js](https://img.shields.io/badge/-NODE-green)
+- ![PHP](https://img.shields.io/badge/-PHP-blueviolet)
+- ![Java](https://img.shields.io/badge/-JAVA-9cf)
+- ![Shell](https://img.shields.io/badge/-SHELL-lightgrey)
 
 ## Experiência
 
