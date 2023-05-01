@@ -1,6 +1,6 @@
 # Sobre Mim
 
-#### Sou um estudante do 2º semestre de Análise e Desenvolvimento de Sistemas na Universidade Positivo
+#### Sou um estudante do 2º semestre de Análise e Desenvolvimento de Sistemas da Universidade Positivo
 
 ## Tecnologias que estou me aprofundando atualmente:
 
@@ -10,7 +10,14 @@
 
 ## Experiência
 
-#### Atualmente estou estudando e praticando minhas habilidades em desenvolvimento de software.
+#### Atualmente estou estudando e praticando minhas habilidades em desenvolvimento de software, tenho alguns repositorios de projetos que forma desenvolvidos em sala de aula, trabalhando em grupo e usando o GIT para versionamento de codigo.
+
+## Habilidades
+
+- Trabalho em equipe
+- Resolução de problemas
+- Dedicação aos estudos
+- Autodiciplina
 
 ## Objetivos
 
