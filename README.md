@@ -4,20 +4,20 @@ Sou estudante do 2º semestre de Análise e Desenvolvimento de Sistemas da Unive
 
 ## Tecnologias que estou me aprofundando atualmente:
 
-<img src="https://img.shields.io/badge/-HTML-orange" alt="HTML badge" height="26" width="65">   <img src="https://img.shields.io/badge/-CSS-blue" alt="CSS badge" height="26" width="60">   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow" alt="JS badge" height="26" width="130">   <img src="https://img.shields.io/badge/-NODE-green" alt="NODE badge" height="26" width="70">   <img src="https://img.shields.io/badge/-PHP-blueviolet" alt="PHP badge" height="26" width="60">   <img src="https://img.shields.io/badge/-JAVA-9cf" alt="JAVA badge" height="26" width="60">   <img src="https://img.shields.io/badge/-SHELL-black" alt="SHELL badge" height="26" width="70">   <img src="https://img.shields.io/badge/-JSON-lightgrey" alt="JSON badge" height="26" width="70">   <img src="https://img.shields.io/badge/-EXPRESS-orange" alt="EXPRESS badge" height="26" width="100">   <img src="https://img.shields.io/badge/-MONGODB-brightgreen" alt="MONGODB badge" height="26" width="110">   <img src="https://img.shields.io/badge/-GIT-red" alt="GIT badge" height="26" width="55">
+<img src="https://img.shields.io/badge/-HTML-orange" alt="HTML badge" height="23" width="55">   <img src="https://img.shields.io/badge/-CSS-blue" alt="CSS badge" height="23" width="55">   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow" alt="JS badge" height="23" width="90">   <img src="https://img.shields.io/badge/-NODE-green" alt="NODE badge" height="23" width="55">   <img src="https://img.shields.io/badge/-PHP-blueviolet" alt="PHP badge" height="23" width="55">   <img src="https://img.shields.io/badge/-JAVA-9cf" alt="JAVA badge" height="23" width="55">   <img src="https://img.shields.io/badge/-SHELL-black" alt="SHELL badge" height="23" width="55">   <img src="https://img.shields.io/badge/-JSON-lightgrey" alt="JSON badge" height="23" width="55">   <img src="https://img.shields.io/badge/-EXPRESS-orange" alt="EXPRESS badge" height="23" width="90">   <img src="https://img.shields.io/badge/-MONGODB-brightgreen" alt="MONGODB badge" height="23" width="90">   <img src="https://img.shields.io/badge/-GIT-red" alt="GIT badge" height="23" width="53">
 
  
 
 ## Experiência
 
-Atualmente estou estudando e praticando minhas habilidades em desenvolvimento de software, tenho alguns repositorios de projetos que forma desenvolvidos em sala de aula, trabalhando em grupo e usando o GIT para versionamento de codigo.
+Atualmente estou estudando e praticando minhas habilidades em desenvolvimento de software, tenho alguns repositórios de projetos que forma desenvolvidos em sala de aula, trabalhando em grupo e usando o GIT para versionamento de código.
 
 ## Habilidades
 
 - Trabalho em equipe
 - Resolução de problemas
 - Dedicação aos estudos
-- Autodiciplina
+- Autodisciplina
 
 ## Objetivos
 
