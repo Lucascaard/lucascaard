@@ -2,15 +2,11 @@
 
 Sou um estudante do 2º semestre de Análise e Desenvolvimento de Sistemas na Universidade Positivo
 
-## Habilidades
+## Tecnologias que estou me aprofundando atualmente:
 
-- ![HTML](https://img.shields.io/badge/-HTML-orange)
-- ![CSS](https://img.shields.io/badge/-CSS-blue)
-- ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-yellow)
-- ![Node.js](https://img.shields.io/badge/-NODE-green)
-- ![PHP](https://img.shields.io/badge/-PHP-blueviolet)
-- ![Java](https://img.shields.io/badge/-JAVA-9cf)
-- ![Shell](https://img.shields.io/badge/-SHELL-lightgrey)
+<img src="https://img.shields.io/badge/-HTML-orange" alt="HTML badge" height="30" width="65">   <img src="https://img.shields.io/badge/-CSS-blue" alt="CSS badge" height="30" width="60">   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow" alt="JS badge" height="30" width="130">   <img src="https://img.shields.io/badge/-NODE-green" alt="NODE badge" height="30" width="70">   <img src="https://img.shields.io/badge/-PHP-blueviolet" alt="PHP badge" height="30" width="60">   <img src="https://img.shields.io/badge/-JAVA-9cf" alt="JAVA badge" height="30" width="60">   <img src="https://img.shields.io/badge/-SHELL-black" alt="SHELL badge" height="30" width="70">   <img src="https://img.shields.io/badge/-JSON-lightgrey" alt="JSON badge" height="30" width="70">   <img src="https://img.shields.io/badge/-EXPRESS-orange" alt="EXPRESS badge" height="30" width="100">   <img src="https://img.shields.io/badge/-MONGODB-brightgreen" alt="MONGODB badge" height="30" width="110">   <img src="https://img.shields.io/badge/-GIT-red" alt="GIT badge" height="30" width="55">
+
+ 
 
 ## Experiência
 
