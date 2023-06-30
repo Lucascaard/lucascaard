@@ -2,7 +2,7 @@
 
 Sou estudante do 3º periodo de Análise e Desenvolvimento de Sistemas da Universidade Positivo.
 
-<div align="center" style="margin:5px">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lucascaard&show_icons=true&theme=tokyonight&layout=compact&include_all_commits=true&count_private=true" alt="lucascaard GitHub           stats" height="200">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaard&layout=donut&langs_count=16&theme=tokyonight&show_icons=true" alt="lucascaard GitHub stats" height="200">
 </div>
