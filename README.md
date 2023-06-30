@@ -1,11 +1,6 @@
 # Sobre Mim
 
-Sou estudante do 3º periodo de Análise e Desenvolvimento de Sistemas da Universidade Positivo
-
-<div style="align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucascaard&show_icons=true&theme=dracula&layout=compact&include_all_commits=true&count_private=true" alt="lucascaard GitHub stats" heigth="170em" width="419em">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaard&layout=compact&langs_count=16&theme=dracula" alt="lucascaard GitHub stats" heigth="170em" width="375em">
-</div>
+Sou estudante do 3º periodo de Análise e Desenvolvimento de Sistemas da Universidade Positivo.
 
 <div align="center">
   <table>
@@ -19,8 +14,6 @@ Sou estudante do 3º periodo de Análise e Desenvolvimento de Sistemas da Univer
     </tr>
   </table>
 </div>
-
-
 
 ## Tecnologias que estou me aprofundando atualmente:
 
