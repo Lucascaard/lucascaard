@@ -27,6 +27,10 @@ Meu objetivo é me tornar um desenvolvedor de software altamente qualificado e c
 
 Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem.
 
+<div>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</div>
+
 #### - [LinkedIn](https://www.linkedin.com/in/lucas-cardoso-de-carvalho-777582188/)
 #### - [WhatsApp](https://wa.me/41999912106?text=Ol%C3%A1%20Lucas%2C%20te%20encontrei%20no%20GitHub.%20Podemos%20conversar%3F)
 #### - Email: <adslucascardoso@gmail.com>
