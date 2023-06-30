@@ -34,7 +34,16 @@ Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar uma
 
 <div>
     <!--gmail -->
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+    <a href="adslucascardoso@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+    <!--Linkedin -->
+    <a href="https://www.linkedin.com/in/lucas-cardoso-de-carvalho-777582188/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+      <!--WhatsApp -->
+    <a href="https://wa.me/41999912106?text=Ol%C3%A1%20Lucas%2C%20te%20encontrei%20no%20GitHub.%20Podemos%20conversar%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+
+
 </div>
 
 #### - [LinkedIn](https://www.linkedin.com/in/lucas-cardoso-de-carvalho-777582188/)
