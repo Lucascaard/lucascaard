@@ -9,7 +9,18 @@ Sou estudante do 3º periodo de Análise e Desenvolvimento de Sistemas da Univer
 
 ## Tecnologias que estou me aprofundando atualmente:
 
-<img src="https://img.shields.io/badge/-HTML-orange" alt="HTML badge" height="23" width="55">   <img src="https://img.shields.io/badge/-CSS-blue" alt="CSS badge" height="23" width="52">   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow" alt="JS badge" height="23" width="100">   <img src="https://img.shields.io/badge/-NODE-green" alt="NODE badge" height="23" width="55">   <img src="https://img.shields.io/badge/-PHP-blueviolet" alt="PHP badge" height="23" width="55">   <img src="https://img.shields.io/badge/-JAVA-9cf" alt="JAVA badge" height="23" width="55">   <img src="https://img.shields.io/badge/-SHELL-black" alt="SHELL badge" height="23" width="55">   <img src="https://img.shields.io/badge/-JSON-lightgrey" alt="JSON badge" height="23" width="55">   <img src="https://img.shields.io/badge/-EXPRESS-orange" alt="EXPRESS badge" height="23" width="90">   <img src="https://img.shields.io/badge/-MONGODB-brightgreen" alt="MONGODB badge" height="23" width="90">   <img src="https://img.shields.io/badge/-GIT-red" alt="GIT badge" height="23" width="53">
+<div align="center" style="display: inline-block"><br>
+    <img alt="html" heigth="30" width="40"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="css" heigth="30" width="40"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="js" heigth="30" width="40"src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img alt="node" heigth="30" width="40"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img alt="php" heigth="30" width="40"src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img alt="java" heigth="30" width="40"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img alt="shell" heigth="30" width="40"src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    <img alt="express" heigth="30" width="40"src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    <img alt="mongodb" heigth="30" width="40"src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img alt="git" heigth="30" width="40"src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+</div>
 
 
 
@@ -46,10 +57,3 @@ Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar uma
       <!--WhatsApp -->
     <a href="https://wa.me/41999912106?text=Ol%C3%A1%20Lucas%2C%20te%20encontrei%20no%20GitHub.%20Podemos%20conversar%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </span>
-
-
-
-#### - [LinkedIn](https://www.linkedin.com/in/lucas-cardoso-de-carvalho-777582188/)
-#### - [WhatsApp](https://wa.me/41999912106?text=Ol%C3%A1%20Lucas%2C%20te%20encontrei%20no%20GitHub.%20Podemos%20conversar%3F)
-#### - Email: <adslucascardoso@gmail.com>
-
