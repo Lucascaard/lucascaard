@@ -33,7 +33,8 @@ Meu objetivo é me tornar um desenvolvedor de software altamente qualificado e c
 Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem.
 
 <div>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <!--gmail -->
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
 </div>
 
 #### - [LinkedIn](https://www.linkedin.com/in/lucas-cardoso-de-carvalho-777582188/)
