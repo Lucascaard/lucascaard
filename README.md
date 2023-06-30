@@ -2,10 +2,24 @@
 
 Sou estudante do 3º periodo de Análise e Desenvolvimento de Sistemas da Universidade Positivo
 
-<div>
+<div style="align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=lucascaard&show_icons=true&theme=dracula&layout=compact&include_all_commits=true&count_private=true" alt="lucascaard GitHub stats" heigth="170em" width="419em">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaard&layout=compact&langs_count=16&theme=dracula" alt="lucascaard GitHub stats" heigth="170em" width="375em">
 </div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=lucascaard&show_icons=true&theme=dracula&layout=compact&include_all_commits=true&count_private=true" alt="lucascaard GitHub stats" height="170em" width="419em">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaard&layout=compact&langs_count=16&theme=dracula" alt="lucascaard GitHub stats" height="170em" width="375em">
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 ## Tecnologias que estou me aprofundando atualmente:
