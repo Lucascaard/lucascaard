@@ -3,8 +3,8 @@
 Sou estudante do 3º periodo de Análise e Desenvolvimento de Sistemas da Universidade Positivo
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=lucascaard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="lucascaard GitHub stats" heigth="180em">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaard&layout=compact&langs_count=16&theme=dracula" alt="lucascaard GitHub stats" heigth="180em" width="419em">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucascaard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="lucascaard GitHub stats" heigth="130em">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaard&layout=compact&langs_count=16&theme=dracula" alt="lucascaard GitHub stats" heigth="130em" width="419em">
 </div>
 
 
