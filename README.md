@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Sou estudante do 2º semestre de Análise e Desenvolvimento de Sistemas da Universidade Positivo
+Sou estudante do 3º periodo de Análise e Desenvolvimento de Sistemas da Universidade Positivo
 
 ## Tecnologias que estou me aprofundando atualmente:
 
