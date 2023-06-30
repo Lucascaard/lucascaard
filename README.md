@@ -22,11 +22,11 @@ Sou estudante do 3º periodo de Análise e Desenvolvimento de Sistemas da Univer
 </div>
 
 <div style="display:inline-block">
-    <img alt="" height="30" width="40"src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
-    <img alt="" height="30" width="40"src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
-    <img alt="" height="30" width="40"src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
-    <img alt="" height="30" width="40"src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
-    <img alt="git"height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img alt="" height="70" width="80"src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
+    <img alt="" height="70" width="80"src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
+    <img alt="" height="70" width="80"src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
+    <img alt="" height="70" width="80"src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
+    <img alt="git"height="70" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 ## Outros conhecimentos
