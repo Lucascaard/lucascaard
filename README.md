@@ -6,7 +6,10 @@ Sou estudante do 2º semestre de Análise e Desenvolvimento de Sistemas da Unive
 
 <img src="https://img.shields.io/badge/-HTML-orange" alt="HTML badge" height="23" width="55">   <img src="https://img.shields.io/badge/-CSS-blue" alt="CSS badge" height="23" width="52">   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow" alt="JS badge" height="23" width="100">   <img src="https://img.shields.io/badge/-NODE-green" alt="NODE badge" height="23" width="55">   <img src="https://img.shields.io/badge/-PHP-blueviolet" alt="PHP badge" height="23" width="55">   <img src="https://img.shields.io/badge/-JAVA-9cf" alt="JAVA badge" height="23" width="55">   <img src="https://img.shields.io/badge/-SHELL-black" alt="SHELL badge" height="23" width="55">   <img src="https://img.shields.io/badge/-JSON-lightgrey" alt="JSON badge" height="23" width="55">   <img src="https://img.shields.io/badge/-EXPRESS-orange" alt="EXPRESS badge" height="23" width="90">   <img src="https://img.shields.io/badge/-MONGODB-brightgreen" alt="MONGODB badge" height="23" width="90">   <img src="https://img.shields.io/badge/-GIT-red" alt="GIT badge" height="23" width="53">
 
- 
+<div>
+  <img heigth="180em" src"https://github-readme-stats.vercel.app/api?username=lucascaard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img heigth="180em" src"<img heigth="180em" src"https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaard&layout-compact&langs_count=16&theme=dracula"/>
+</div>
 
 ## Experiência
 
