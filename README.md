@@ -15,7 +15,7 @@ Sou estudante do 3º periodo de Análise e Desenvolvimento de Sistemas da Univer
     <img alt="" height="45" width="55"src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
     <img alt="" height="45" width="55"src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
     <img alt="git"height="45" width="55"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img alt="csharp"height="45" width="55"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
 ## Outros conhecimentos
