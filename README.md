@@ -9,7 +9,7 @@ Sou estudante do 3º periodo de Análise e Desenvolvimento de Sistemas da Univer
 
 <div align="center">
         <a href="https://roadmap.sh">
-            <img src="https://api.roadmap.sh/v1-badge/tall/64d24361958c39fd1f819290?variant=dark" height="270" alt="roadmap.sh"/>
+            <img src="https://api.roadmap.sh/v1-badge/tall/64d24361958c39fd1f819290?variant=dark" height="320" alt="roadmap.sh"/>
         </a>
 </div>
 
