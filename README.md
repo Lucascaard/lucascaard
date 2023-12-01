@@ -7,6 +7,10 @@ Sou estudante do 3º periodo de Análise e Desenvolvimento de Sistemas da Univer
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaard&layout=donut&langs_count=16&theme=dark&show_icons=true" alt="lucascaard GitHub stats" height="200">
 </div>
 
+<div align="center">
+    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64d24361958c39fd1f819290?variant=dark" height="300" alt="roadmap.sh"/></a>
+</div>
+
 ## Tecnologias que estou me aprofundando atualmente:
 
 <div style="display:inline-block">
