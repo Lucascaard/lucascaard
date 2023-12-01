@@ -8,8 +8,12 @@ Sou estudante do 3º periodo de Análise e Desenvolvimento de Sistemas da Univer
 </div>
 
 <div align="center">
-    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64d24361958c39fd1f819290?variant=dark" height="300" alt="roadmap.sh"/></a>
+        <a href="https://roadmap.sh">
+            <img src="https://api.roadmap.sh/v1-badge/tall/64d24361958c39fd1f819290?variant=dark" height="270" alt="roadmap.sh"/>
+        </a>
 </div>
+
+
 
 ## Tecnologias que estou me aprofundando atualmente:
 
