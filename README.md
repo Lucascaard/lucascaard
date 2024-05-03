@@ -7,23 +7,13 @@ Sou estudante do ultimo periodo de Análise e Desenvolvimento de Sistemas da Uni
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaard&layout=donut&langs_count=16&theme=dark&show_icons=true" alt="lucascaard GitHub stats" height="200">
 </div>
 
-<div align="center">
-        <a href="https://roadmap.sh">
-            <img src="https://api.roadmap.sh/v1-badge/tall/64d24361958c39fd1f819290?variant=dark" height="320" alt="roadmap.sh"/>
-        </a>
-</div>
-
-
-
 ## Tecnologias que estou me aprofundando atualmente:
-
 <div style="display:inline-block">
-    <img alt="" height="45" width="55"src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
-    <img alt="" height="45" width="55"src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
-    <img alt="" height="45" width="55"src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
-    <img alt="" height="45" width="55"src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
-    <img alt="git"height="45" width="55"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img alt="dotnet" height="37" width="80" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     <img alt="csharp"height="45" width="55"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img alt="shellScript" height="45" width="55" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" />
+    <img alt="git"height="45" width="55"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img alt="github" height="35" width="95" src="https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/github.png" />
 </div>
 
 ## Outros conhecimentos
