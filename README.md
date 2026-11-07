@@ -40,7 +40,7 @@ Software Analyst
 
 ## Experiência
 
-Atualmente atuo como Desenvolvedor Full Stack Júnior, focado em .NET Framework, .NET 5+, Razor e padrão MVC. Também possuo experiência com JavaScript, TypeScript e Node.js.
+Atualmente atuo como Desenvolvedor Full Stack Júnior, focado em .NET 10+, React, TypeScript e Node.
 
 ## Habilidades
 
